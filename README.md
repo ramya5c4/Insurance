@@ -6,7 +6,7 @@
 <div>
    <h2>Tools & Technologies Used</h2>
     <ul>
-      <li><span class="highlight">Python</span>: The primary programming language for implementing machine learning algorithms and data processing.</li>
+      <li>Python</li>
       <li><span class="highlight">Scikit-learn</span>: A machine learning library used for building and training models.</li>
       <li><span class="highlight">Pandas</span>: A library used for data manipulation and preprocessing.</li>
       <li><span class="highlight">NumPy</span>: A library for numerical operations and handling large datasets.</li>
