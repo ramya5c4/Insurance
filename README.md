@@ -8,9 +8,9 @@
     <ul>
       <li>Python</li>
       <li>Scikit-learn</li>
-      <li><span class="highlight">Pandas</span>: A library used for data manipulation and preprocessing.</li>
-      <li><span class="highlight">NumPy</span>: A library for numerical operations and handling large datasets.</li>
-      <li><span class="highlight">Jupyter Notebook</span>: Used for experimenting with code, visualizing data, and creating an interactive development environment.</li>
-      <li><span class="highlight">Matplotlib/Seaborn</span>: Used for data visualization to understand trends and patterns in the data.</li>
+      <li>Pandas</li>
+      <li>NumPy</li>
+      <li>Jupyter Notebook</li>
+      <li>Matplotlib/Seaborn</li>
     </ul>
   </div>
