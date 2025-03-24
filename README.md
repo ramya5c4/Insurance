@@ -1,7 +1,4 @@
-# Health Insurance:
-
-              Health insurance is an application designed to calculate the premiums based on users given data.
-              mainly focused on Age,Number of Dependants,Income in Lakhs,Genetical Risk,Insurance Plan.
-              This is the regression model using Python and Scikit-learn and Streamlit application
-             
-      
+<h1> Health Insurance:</h1>
+<div>
+             The Health Insurance Premium Prediction project is an innovative application that leverages machine learning to estimate health insurance premiums based on user-specific data. By analyzing various factors such as age, income, number of dependents, genetic risks, and the selected insurance plan, the application accurately calculates the appropriate premium for each user.
+              </div>
