@@ -6,7 +6,6 @@
 <div>
    <h2>Tools & Technologies Used</h2>
     <ul>
-      
       <li>Python</li>
       <li>Scikit-learn</li>
       <li>Pandas</li>
