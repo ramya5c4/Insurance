@@ -12,6 +12,5 @@
       <li><span class="highlight">NumPy</span>: A library for numerical operations and handling large datasets.</li>
       <li><span class="highlight">Jupyter Notebook</span>: Used for experimenting with code, visualizing data, and creating an interactive development environment.</li>
       <li><span class="highlight">Matplotlib/Seaborn</span>: Used for data visualization to understand trends and patterns in the data.</li>
-     
     </ul>
   </div>
