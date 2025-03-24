@@ -6,6 +6,7 @@
 <div>
    <h2>Tools & Technologies Used</h2>
     <ul>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python_logo_2020.svg" alt="Python Logo">
       <li>Python</li>
       <li>Scikit-learn</li>
       <li>Pandas</li>
