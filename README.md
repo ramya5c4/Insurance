@@ -7,7 +7,7 @@
    <h2>Tools & Technologies Used</h2>
     <ul>
       <li>Python</li>
-      <li><span class="highlight">Scikit-learn</span>: A machine learning library used for building and training models.</li>
+      <li>Scikit-learn</li>
       <li><span class="highlight">Pandas</span>: A library used for data manipulation and preprocessing.</li>
       <li><span class="highlight">NumPy</span>: A library for numerical operations and handling large datasets.</li>
       <li><span class="highlight">Jupyter Notebook</span>: Used for experimenting with code, visualizing data, and creating an interactive development environment.</li>
