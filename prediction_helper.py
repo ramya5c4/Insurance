@@ -90,11 +90,9 @@ def preprocess_input(input_dict):
     return df
 
 def handle_scaling(df):
-    # scale age and income_lakhs column
-
     cols_to_scale = scaler_object['col_to_scale']
     scaler  = scaler_object['scaler']
-    df['income_level'] = None # since scaler object expects income_level supply it. This will have no impact on anything
+    df['income_level'] = None 
     df[cols_to_scale] = scaler.transform(df[cols_to_scale])
 
     df.drop('income_level', axis='columns', inplace=True)
